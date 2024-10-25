@@ -4,11 +4,13 @@ This repository hosts an AI-powered blog writing tool that uses OpenAI's GPT to 
 ## Project Structure
 Organize your repository with a clear structure:
 
+```plaintext
 ai-blog-writer/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
 ├── AutoBlog-GPT+Image.py
+```
 
 ## Prerequisites
 
