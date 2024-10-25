@@ -1,6 +1,21 @@
 # AI Blog Writer - Powered by OpenAI GPT
 This repository hosts an AI-powered blog writing tool that uses OpenAI's GPT to generate SEO-optimized blog content. The tool creates blog posts based on user-defined topics, industry, and tone, making it easy to produce high-quality, engaging, and relevant content for various niches. Additionally, it provides the option to seamlessly add images to enhance blog readability and visual appeal.
 
+## Project Structure
+Organize your repository with a clear structure:
+
+ai-blog-writer/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── AutoBlog-GPT+Image.py
+
+## Prerequisites
+
+- Python 3.7 or higher
+- An OpenAI API key
+- An Unsplash API key
+
 ## Key Features
 - Customizable Content Creation: Generate blog posts tailored to specific topics, industries, and desired tones (e.g., professional, conversational, informative).
 - SEO Optimization: Content is designed with search engine optimization in mind, helping your blog posts rank effectively for relevant keywords.
